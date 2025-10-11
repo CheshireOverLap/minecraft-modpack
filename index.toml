@@ -40,6 +40,16 @@ hash = "376f6c1675d17e41252cb2a7136dae345b7b7008017a57bff49f5c153d5a3347"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
@@ -65,6 +75,11 @@ hash = "586ae8ed31d1553c713df59bc853ec0f50356e44a6c8fde2d4e2f1ae5fc2ad86"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "c11ad6c0aa4d5eb1ee0c51b8cc4a3434542ab187248dedd0de9b857d93b8407c"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "c3b0a110f11f64466cb233d2c06a7ab449f8f00165c87e468fcaee659a0eadc9"
 metafile = true
@@ -85,8 +100,18 @@ hash = "1599155b8f34df785546879fbf2bbecefeadb57529d405e6ec9d2e4b391316c5"
 metafile = true
 
 [[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "3d52adcc60da1d61c5a9a09e04e87e2f70880da8183685e454dbfa4e4d84f567"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "09aa1696771e699feee5311e5bd62d0bc66027abfb0b18fd89ae80489f6b8766"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "575ca8d86d3658b833e22c7a843b12c20027e35e961a305c282825c30c481a62"
 metafile = true
 
 [[files]]
@@ -107,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "b821efc793dd7308be6788095bea26a2a0479f9a3ddc3b0d6a6a2af351153fc0"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "2d5e7933084cb695f9b00e28ce49fdd1551b7bdab73995ccbb1c16c67439dcff"
 metafile = true
 
 [[files]]
@@ -132,6 +162,26 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d443ed7871b1aebdcac6d3b9212676c576e6c4d86ba0eb03ddd85349f12a74e1"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "bd27e4138422966daf05e7aac2bfd4e984f8dc016c7210ed72e1f9b42d92c114"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "eafe33cc94b4e72b99cc2e93dff4dcab3cd1591312b69bd3592e91868f325a5c"
+metafile = true
+
+[[files]]
+file = "mods/tooltip-overhaul.pw.toml"
+hash = "71290b3fd3fd62fc9deeb20edbf98ca4ec0d3331dc23ab1b1d19bdc1b2857827"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]

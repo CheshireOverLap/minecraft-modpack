@@ -1,0 +1,21 @@
+name = "Tooltip Overhaul"
+filename = "tooltipoverhaul-neoforge-1.21.1-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vRFcG5n6/versions/oIv4S4ne/tooltipoverhaul-neoforge-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "5f60b2e4c772bf7a491c8c17725f952ae17041d8759d4cc8c10383e00e7c67400f78aa9625f364dc40e16b2f077086bea48874ab4bd73259de243eeaf758ecb5"
+
+[update]
+[update.modrinth]
+mod-id = "vRFcG5n6"
+version = "oIv4S4ne"
+
+[option]
+optional = false
+default = true
+
+[option.env]
+client = "required"
+server = "unsupported"
