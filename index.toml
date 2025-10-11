@@ -26,11 +26,6 @@ hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
 metafile = true
 
 [[files]]
-file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "3d52adcc60da1d61c5a9a09e04e87e2f70880da8183685e454dbfa4e4d84f567"
-metafile = true
-
-[[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "0ba45c4cf0d0c605841b708a23417668e1ee4c9860a1d4572b122d6348c113ed"
 metafile = true
