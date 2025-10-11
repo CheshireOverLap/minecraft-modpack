@@ -1,0 +1,11 @@
+# Packwiz cache
+.packwiz/
+.packwizcache/
+
+# 빌드 파일
+*.mrpack
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+name = "오만추 모드팩"
+author = "CheshireOverLap"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bb3817d53463060d2fed1a7ab75642e02ec5bd592b8e03eccc687ea557505223"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.209"
