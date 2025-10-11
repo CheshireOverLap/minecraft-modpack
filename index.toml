@@ -1,18 +1,67 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "44dd59f1b0e5f6ae7725401c1c610bf93b451e926fdc5c87b19e6cae07d1f750"
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "ea006c36ba8f5219cd7814396c25451501efb9555ee9aa87accb70ab4cb0d150"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "9103bf08c2aa16469000c10ec6f489a3e2110cbd7e35d51285935a302666fd67"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "eb0403f3d44403a72563cc22b91f09aba64cbdcd3c09731c93f72ff89d8acf62"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "3013e9a8da495e3a0e9517863926e986aa68b9e0e4a34408afdb887fab8856f0"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "376f6c1675d17e41252cb2a7136dae345b7b7008017a57bff49f5c153d5a3347"
 metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "246f96f10877e400a1e0cd824e9a952079f09ee683bed08a54ac255deb11192d"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "66bf7b310fa0a966089208168f845a83e3d7380aa5ce2fa317ef7840e74d51e2"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "831ec5565079f45028eb89ecdd888b4cc5214e8a06d40fb02dc3cb4852db72eb"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "586ae8ed31d1553c713df59bc853ec0f50356e44a6c8fde2d4e2f1ae5fc2ad86"
 metafile = true
 
 [[files]]
@@ -26,13 +75,33 @@ hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "79ba5e3a26ee6c4fecb45d3fc450417f0f403aca9c7bbdf6d8e8944187a8c055"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "1599155b8f34df785546879fbf2bbecefeadb57529d405e6ec9d2e4b391316c5"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "09aa1696771e699feee5311e5bd62d0bc66027abfb0b18fd89ae80489f6b8766"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "fd03fd4d75699b4cd6f4de91e55466b411e86c9ed1327ea5da511ce32ce1d902"
+metafile = true
+
+[[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
-hash = "0ba45c4cf0d0c605841b708a23417668e1ee4c9860a1d4572b122d6348c113ed"
+hash = "ef87e59fb3df3b70964834e1e72b2a76758a27b8301bd208aaeedf1289367d10"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "00b6ed2925ca0b045d27fbb0825114622aa4c20b3ba032de6cf05edbfaa70d99"
 metafile = true
 
 [[files]]
@@ -43,6 +112,16 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "0dfd8ecf00862a67868392b1f43af975dde9979cb0a3d55473ea8b0b3d369c3a"
+metafile = true
+
+[[files]]
+file = "mods/neoculus.pw.toml"
+hash = "6f11b931214b3ef7f6f8202e556ff7479a52b074930382cb00f31c4ede002c85"
 metafile = true
 
 [[files]]
@@ -61,6 +140,21 @@ hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c2ca042a02e582cc4a31b3f4d5e2766ff83702a6753a46a869a299530f6b6d1d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "1e452171f297108beeed2d65fc7822db078ae8b4b0093249b97385eda183d38b"
+metafile = true
+
+[[files]]
+file = "mods/yes-steve-model.pw.toml"
+hash = "938e67cfe5607ccadc47cd192600f99c36de1e939e04d5ffbf647ff7a46c64b4"
+metafile = true
+
+[[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
 hash = "6b548f0402651a554b18cb6560bf85744d0827dfd001bb66232904e7962258e1"
 metafile = true
@@ -69,3 +163,11 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Stoneborn-1.20.2-1.21.4-V3.2.4.zip"
+hash = "05e3cd5f1cdc22e2f77f4fafed0e3a490e56705741d01ea710c5fd4a190b9255"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
+hash = "20897248a5fe91b33bf7fd4b75959c30aa2003df195297979a410ee37d3bb62f"

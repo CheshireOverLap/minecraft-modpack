@@ -1,0 +1,21 @@
+name = "Yes Steve Model"
+filename = "ysm-2.5.1-neoforge+mc1.21.1-release.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/86xjpqqS/versions/ODG4m688/ysm-2.5.1-neoforge%2Bmc1.21.1-release.jar"
+hash-format = "sha512"
+hash = "83d7417acf4de05b0bda2b74d538706e3351904046bb88c66aff3a5aec2092473e11c596f7278fbeca1c64e33069b93feae7c0352cdead987fac41d0731bdf4c"
+
+[update]
+[update.modrinth]
+mod-id = "86xjpqqS"
+version = "ODG4m688"
+
+[option]
+optional = false
+default = true
+
+[option.env]
+client = "required"
+server = "unsupported"

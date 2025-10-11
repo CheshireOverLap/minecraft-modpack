@@ -11,3 +11,11 @@ hash = "0289605e6e1c6e276eb58e160994b63155e049ec57dc672779d4630858f4d35c80254f11
 [update.modrinth]
 mod-id = "46KJle7n"
 version = "FSm3cpWc"
+
+[option]
+optional = false
+default = true
+
+[option.env]
+client = "required"
+server = "unsupported"
