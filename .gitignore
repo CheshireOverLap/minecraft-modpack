@@ -1,5 +1,34 @@
-﻿.packwizignore
+﻿# PackWiz
+.packwizignore
 packwiz.exe
+
+# Minecraft files
 *.jar
 *.zip
+world/
+logs/
+crash-reports/
+.mixin.out/
+
+# System files
 .DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Node modules (if using any tools)
+node_modules/
+
+# Build artifacts
+dist/
+build/
+out/
