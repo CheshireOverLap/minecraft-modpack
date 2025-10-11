@@ -20,8 +20,28 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "cfe8e6a9f36ca1f2259d5cebe4e684830762be8737130d0cf32aee35c66befbb"
+metafile = true
+
+[[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "c3188eac96ce1c7f9498af4b8f4ffa269a7f3a471c9393eda2f2e8ea3acb52df"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-bettercombat-compatibility.pw.toml"
+hash = "187f3df4d1952ea3587fe26fdbc2353a1a8e74a5d79ebe1aee3683f576c3241c"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "44b0bfe5cfa4bce8655be99911c745ba7137dbf2f64828450a48c681c668bba4"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
@@ -51,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -95,13 +115,18 @@ hash = "fdd806fccb33ca4a6ee6c8055fae235e1d5efc906fdc19a1be1924921120d9e8"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "402ca5410076adcf4bff4211d5d734572e0549955d3613ea0942309ec29a409b"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "d1bdd9a2ac0db08eb46b86b1f5762d4072776610ce868a4972a25d2a0975f635"
 metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "3d52adcc60da1d61c5a9a09e04e87e2f70880da8183685e454dbfa4e4d84f567"
+hash = "5a4c30b9b1861b7df3362367356002e526eda6da4bce217d8f80886be4d6e5b0"
 metafile = true
 
 [[files]]
@@ -125,13 +150,18 @@ hash = "ef87e59fb3df3b70964834e1e72b2a76758a27b8301bd208aaeedf1289367d10"
 metafile = true
 
 [[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "62f78f4c3c3fac7e5f0507e2b7a2fdf854a263d34b45c0295df8a07255c37ead"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "95d9f31a7003a10ec51e6ed97cff19f976aaf08fd6a2698cabf408cfaa6145f1"
 metafile = true
 
 [[files]]
 file = "mods/lionfish-api.pw.toml"
-hash = "b821efc793dd7308be6788095bea26a2a0479f9a3ddc3b0d6a6a2af351153fc0"
+hash = "3d5d4c97ece8d1470d785fbffb44c1f17ca406931d08dd0cfd5d77745a956979"
 metafile = true
 
 [[files]]
@@ -157,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "58fe862ac2e8f705d8d611e4dfc49a85c4391f60981120949d7a2a772b1e96cc"
 metafile = true
 
 [[files]]
