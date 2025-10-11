@@ -50,11 +50,6 @@ hash = "097a2a9f31c3cccc019c63e412e6dd7d561e133a0c9117a7b32fdae11579fd56"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
-metafile = true
-
-[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
@@ -100,11 +95,6 @@ hash = "402ca5410076adcf4bff4211d5d734572e0549955d3613ea0942309ec29a409b"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "9422e9e313d0ea266dffacf14d5bd55f9244d51d4f4587af7236cb778462461c"
-metafile = true
-
-[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "3d52adcc60da1d61c5a9a09e04e87e2f70880da8183685e454dbfa4e4d84f567"
 metafile = true
@@ -130,11 +120,6 @@ hash = "62f78f4c3c3fac7e5f0507e2b7a2fdf854a263d34b45c0295df8a07255c37ead"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-hash = "52ad3f05b5a593f8f48371bcae785c4c4e328e0eb6c317e6942ce127878497e2"
-metafile = true
-
-[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "3d5d4c97ece8d1470d785fbffb44c1f17ca406931d08dd0cfd5d77745a956979"
 metafile = true
@@ -142,11 +127,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
@@ -182,21 +162,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "9d76c3683cfea5c5976823a000eacc9944db9f097894356d2a029cf36642ffa4"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "9b8940ac83dde84cfc59860c6544a4b1194e635786c26bd47dc15eee79e63598"
-metafile = true
-
-[[files]]
-file = "mods/yes-steve-model.pw.toml"
-hash = "28b67f75a2faf75b7674716ad9703901307645ba0443b9ad8a722ce27edbd3e2"
 metafile = true
 
 [[files]]
