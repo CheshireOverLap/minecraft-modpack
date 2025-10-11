@@ -62,10 +62,20 @@ MultiMC도 Prism Launcher와 동일한 방식으로 설정할 수 있습니다.
    - `shaderpacks` 폴더의 셰이더를 `.minecraft/shaderpacks/`에 복사
    - `resourcepacks` 폴더의 리소스팩을 `.minecraft/resourcepacks/`에 복사
 
-## 📦 포함된 모드 (32개)
+## 📦 포함된 모드 (42개)
+
+### 🏭 공학 & 제작
+- **Create** - 회전 동력 기반의 기계 및 자동화 시스템
 
 ### ⚔️ 콘텐츠 & 보스
 - **L_Ender's Cataclysm** - 고난이도 보스 및 던전 추가
+
+### ✨ 마법 & RPG
+- **Iron's Spells 'n Spellbooks** - 다양한 마법과 주문서 시스템
+
+### 🎒 인벤토리 & 아이템
+- **Sophisticated Backpacks** - 업그레이드 가능한 고급 백팩 시스템
+- **Sophisticated Core** - Sophisticated 시리즈 핵심 라이브러리
 
 ### 🛠️ 유틸리티 & API
 - Architectury API
@@ -74,6 +84,7 @@ MultiMC도 Prism Launcher와 동일한 방식으로 설정할 수 있습니다.
 - YUNG's API
 - Lionfish API
 - Placebo
+- CoroUtil
 
 ### ⚡ 성능 최적화
 - **Embeddium** - 렌더링 최적화 (Sodium 포크)
@@ -100,6 +111,11 @@ MultiMC도 Prism Launcher와 동일한 방식으로 설정할 수 있습니다.
 - **Clumps** - 경험치 오브 최적화
 - **Inventory Profiles Next** - 인벤토리 정리
 - **libIPN** - IPN 라이브러리
+- **Tooltip Overhaul** - 툴팁 UI 개선
+- **FancyMenu** - 메뉴 커스터마이징
+- **Konkrete** - FancyMenu 핵심 라이브러리
+- **Melody** - FancyMenu 오디오 라이브러리
+- **What Are They Up To (Watut)** - 플레이어 활동 표시
 
 ### 💀 사망 시스템
 - **You're in Grave Danger** - 사망 시 무덤 생성
@@ -117,6 +133,20 @@ MultiMC도 Prism Launcher와 동일한 방식으로 설정할 수 있습니다.
 - **Euphoria Patches** - Optifine 리소스팩 지원
 
 ## 🎮 게임 플레이 팁
+
+### Create 시작하기
+- **기본 동력**: 풍차, 물레방아로 회전 동력 생성
+- **기어**: 다양한 속도와 방향 전환
+- **JEI 활용**: Create 레시피는 JEI에서 확인 가능
+
+### 마법 사용 (Iron's Spells)
+- 주문서와 마법 스크롤 제작
+- 다양한 속성의 마법 습득
+- 마나 관리와 주문 조합
+
+### 백팩 활용
+- Sophisticated Backpacks로 대량 아이템 운반
+- 업그레이드로 기능 확장 (자동 수집, 필터 등)
 
 ### 셰이더 설정
 1. 게임 실행 후 `옵션` → `비디오 설정` → `셰이더팩`
@@ -150,13 +180,18 @@ java -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Ches
 
 ### 게임이 크래시될 때
 1. Java 버전 확인 (Java 21 이상 권장)
-2. 할당 메모리 증가 (최소 4GB, 권장 6-8GB)
+2. 할당 메모리 증가 (최소 6GB, 권장 8-10GB) - Create 모드 포함으로 메모리 요구량 증가
 3. 그래픽 드라이버 업데이트
 
 ### 셰이더가 작동하지 않을 때
 1. NeOculus 모드가 설치되어 있는지 확인
 2. 셰이더팩이 `shaderpacks` 폴더에 있는지 확인
 3. 성능 문제 시 셰이더를 끄거나 다른 셰이더 사용
+
+### Create 모드 관련 문제
+1. 기계가 작동하지 않으면 동력 연결 확인
+2. 회전 속도와 응력(Stress) 체크
+3. JEI에서 정확한 레시피 확인
 
 ## 📞 문의
 
