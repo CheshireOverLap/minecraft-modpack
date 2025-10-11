@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "44dd59f1b0e5f6ae7725401c1c610bf93b451e926fdc5c87b19e6cae07d1f750"
+hash = "55799d4e4a5adb4f3099dff299834f16f79df565e970ad850a6edb0b87342e63"
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
