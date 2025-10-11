@@ -5,8 +5,9 @@ file = "README.md"
 hash = "55799d4e4a5adb4f3099dff299834f16f79df565e970ad850a6edb0b87342e63"
 
 [[files]]
-file = "index.toml.backup"
-hash = "f9d25cfe005c863c72baa1d4005bbde4fbee08061ec30b40ef4e63c452bc92f7"
+file = "mods/aces-spell-utils.pw.toml"
+hash = "357e33828867b19c5aa943f8a07d852559ae49487f9ef61e0feb297573652e53"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -35,17 +36,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c78021d923ba3e0dd2a4060b4fa4addd343974313cf3278f9e36359e903f442c"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "910f09506aef1e066631306ab1e9860350e1c1a22d0820abc506df3ec7c54651"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "0fa468371c94d73c368c3033a5f4a50071712921bd5acd294b0630f36066cdf7"
+hash = "097a2a9f31c3cccc019c63e412e6dd7d561e133a0c9117a7b32fdae11579fd56"
 metafile = true
 
 [[files]]
@@ -60,7 +61,17 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "650d83f19ef2c073e57dfc087226fe029c0aa6d12cfdd57a091666a216bb5d15"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/ec-lec-plugin.pw.toml"
+hash = "1d3dfa2a98877f36088f4c19d770606444c90daa7111e22629a4d652c891b3f6"
+metafile = true
+
+[[files]]
+file = "mods/expanded-combat.pw.toml"
+hash = "e6a15849da9a9c999b8a00425dc28a8be7c9c56ba69f491f0d4d6aea4592c3da"
 metafile = true
 
 [[files]]
@@ -75,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "c88864d93535fddbba7d8a6c9039f4ff6ca0a2aef7b59a7585439d0cef93349e"
+hash = "ec1bd5b80399287ca33a113086bee9d5697b7e673c9f593e5a1aeca4c9bad4c9"
 metafile = true
 
 [[files]]
@@ -85,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "ad9f80594eed1728c551786e7d8d96573495a4c978d2d115800c652804c7b5b6"
+hash = "3d52adcc60da1d61c5a9a09e04e87e2f70880da8183685e454dbfa4e4d84f567"
 metafile = true
 
 [[files]]
@@ -95,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "2fcbfe045a6e2063ed74b00841f82bef29037e383167d5073e354cf227bd06ac"
+hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
