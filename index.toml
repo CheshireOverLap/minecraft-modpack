@@ -6,7 +6,7 @@ hash = "55799d4e4a5adb4f3099dff299834f16f79df565e970ad850a6edb0b87342e63"
 
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
-hash = "f6117c327252ae8566daf27b81ecdd4357988df9f22f38d601d1ef63827657c1"
+hash = "357e33828867b19c5aa943f8a07d852559ae49487f9ef61e0feb297573652e53"
 metafile = true
 
 [[files]]
@@ -66,17 +66,17 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/ec-l-enders-cataclysm-compat.pw.toml"
-hash = "87d032e6019b80abfa7432b2195572c9705b04b54d719783a1aa04eea009c0ec"
+file = "mods/ec-lec-plugin.pw.toml"
+hash = "1d3dfa2a98877f36088f4c19d770606444c90daa7111e22629a4d652c891b3f6"
 metafile = true
 
 [[files]]
 file = "mods/expanded-combat.pw.toml"
-hash = "9bc1bfb20105a560b400638391bb7bad28cf598c4dba7662aeeb12b133712d1a"
+hash = "e6a15849da9a9c999b8a00425dc28a8be7c9c56ba69f491f0d4d6aea4592c3da"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "5a4c30b9b1861b7df3362367356002e526eda6da4bce217d8f80886be4d6e5b0"
+hash = "3d52adcc60da1d61c5a9a09e04e87e2f70880da8183685e454dbfa4e4d84f567"
 metafile = true
 
 [[files]]
