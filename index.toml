@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "0681f8805c880694f6cec2647b24a8d6ea486d644a482a98cc98256be3dccb2c"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
@@ -46,11 +41,6 @@ hash = "0fa468371c94d73c368c3033a5f4a50071712921bd5acd294b0630f36066cdf7"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "f1976746fa3ec72fa97dc8906feb6377646e2145256448fce4b1fe2a1cf56f5e"
-metafile = true
-
-[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "0bbae13b361fdd2f30919f8f1bdd72f526b12ecf212f81d56fc372c533d64e17"
 metafile = true
@@ -66,28 +56,8 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "6a5503f90eda6b64b4eb121e3b2fb40d33ec8a97abae5dc9db49d37d45200ccf"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "2d4e4c3abc56b910236bd8e74b468df2ebc0466fdb4be16573dda4d08d63cc0b"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "f48d8d1f04f68dc8e6cac4ed4768790fa7ab35ee23c2aaed5391d862c6043eab"
-metafile = true
-
-[[files]]
-file = "mods/euphoria-patches.pw.toml"
-hash = "5769540b21b3da75c8000460834b9b9c38f7874ae9169921642cc39cc8475d38"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "18e24788c5330c2335b395a29dcc5c2c4194d101ea068f722011c7c950bf6b38"
 metafile = true
 
 [[files]]
@@ -106,28 +76,8 @@ hash = "960fb33c17aca9c635f99009c1f16d75c312d043e302a599f6ce8040452079e6"
 metafile = true
 
 [[files]]
-file = "mods/immersive-messages-api.pw.toml"
-hash = "5883b6dc5d6b6429beda0afdf8269b556e992886ed9895ceebd5c73d3737f2f1"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "ce28553750177fe63cf04a8fa02568197c4cc20159ba647ecb296413d49e34df"
-metafile = true
-
-[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "ad9f80594eed1728c551786e7d8d96573495a4c978d2d115800c652804c7b5b6"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "6e6b7ef3d1ab0528856478e674d550582ce6a484c2d27b38cc987917f6f3cc5d"
-metafile = true
-
-[[files]]
-file = "mods/konkrete.pw.toml"
-hash = "aebe7d9bce331d857dde6847cd60cbc821486054d3d55b382058e0a573ed4f22"
 metafile = true
 
 [[files]]
@@ -141,33 +91,13 @@ hash = "0ba45c4cf0d0c605841b708a23417668e1ee4c9860a1d4572b122d6348c113ed"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-hash = "7605e57c3289c582678ef686a77123c08d885df1c64488a92019669f34e47e52"
-metafile = true
-
-[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "b821efc793dd7308be6788095bea26a2a0479f9a3ddc3b0d6a6a2af351153fc0"
 metafile = true
 
 [[files]]
-file = "mods/melody.pw.toml"
-hash = "4ea155b000509070854a4b8f9b6e790b7f90aa9187cd611a15ee6693fc157cf1"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "3bc42dae4466a06b377f3a0fdd3cc3a1a42175ce3dc78f203c836786eb2aade2"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "6204ba76faf9e944c106910fd7f42dca54506063c666af3e1f1e7f5b69f52b43"
-metafile = true
-
-[[files]]
-file = "mods/neoculus.pw.toml"
-hash = "6c1fa54dcc7eb09f4eb5673ab8e8581161fc7549134af498f1e7955d8a233bdc"
 metafile = true
 
 [[files]]
@@ -186,11 +116,6 @@ hash = "b13955eeec057bd3a62f50358ed2086dc69336a44f46ac9ef2d36f07597a4d20"
 metafile = true
 
 [[files]]
-file = "mods/txnilib.pw.toml"
-hash = "4b43714366871c3b822e8b708c9887edf0e0bf390d7a1ae3650a6936c2e3746b"
-metafile = true
-
-[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "746b5a692997b6b51651e364fb11c546c2aed181e6fcf98ab4c8f709e04509f3"
 metafile = true
@@ -198,16 +123,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "f1670113ba6c7687790c33c13521505caf0fb59a50a253e9533e9f6ebe3cf8c9"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "2e3a92e765b7c441ab0da26b855bd3dbb6573d002e207f469d3e502ae5c2df81"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "f98e88df2f5404f793e2af126a00787073ea6960f51a7e6fc5c196bfd6d752b9"
 metafile = true
 
 [[files]]
