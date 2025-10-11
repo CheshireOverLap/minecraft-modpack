@@ -31,36 +31,8 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
-file = "mods/embeddium.pw.toml"
-hash = "6a5503f90eda6b64b4eb121e3b2fb40d33ec8a97abae5dc9db49d37d45200ccf"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "2d4e4c3abc56b910236bd8e74b468df2ebc0466fdb4be16573dda4d08d63cc0b"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "b14c94fdbb3532f2d19a458a9abcd4cd414f0455cc7b49dc9452f3aeb710890c"
-metafile = true
-
-[[files]]
-file = "mods/euphoria-patches.pw.toml"
-hash = "5769540b21b3da75c8000460834b9b9c38f7874ae9169921642cc39cc8475d38"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "18e24788c5330c2335b395a29dcc5c2c4194d101ea068f722011c7c950bf6b38"
-metafile = true
-
-[[files]]
-=======
->>>>>>> server
 file = "mods/ferrite-core.pw.toml"
-hash = "5ff4e2006f81d3c8a741347c9987c3f0770ae781aa3e591bfeea39092067c4ba"
+hash = "ea72f1530367a4f8c347e197119188d25d876f3fe4ac19c1eb0b4c2ad23ce48c"
 metafile = true
 
 [[files]]
@@ -85,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "86b3b153f2ae1a4b2d1c0508bb9a9f616036bea480202b32f465c22a4561fa1f"
+hash = "3bc42dae4466a06b377f3a0fdd3cc3a1a42175ce3dc78f203c836786eb2aade2"
 metafile = true
 
 [[files]]
@@ -110,10 +82,15 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
+hash = "965a7a00ad84911cb4c0c79d513b56755a59104b0e28d728eb6be6310c8cd4d5"
 metafile = true
 
 [[files]]
 file = "mods/yes-steve-model.pw.toml"
 hash = "28b67f75a2faf75b7674716ad9703901307645ba0443b9ad8a722ce27edbd3e2"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "ef80891ed72e87e1fd2fda3bcee9e8a50e5c4cf836283ae8ef4c81e7fd213fd0"
 metafile = true
