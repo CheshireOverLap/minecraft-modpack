@@ -1,0 +1,5 @@
+﻿.packwizignore
+packwiz.exe
+*.jar
+*.zip
+.DS_Store
