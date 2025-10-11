@@ -1,6 +1,6 @@
 name = "Yes Steve Model"
 filename = "ysm-2.5.1-neoforge+mc1.21.1-release.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/86xjpqqS/versions/ODG4m688/ysm-2.5.1-neoforge%2Bmc1.21.1-release.jar"
