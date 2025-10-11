@@ -1,0 +1,13 @@
+name = "EC L_Ender's Cataclysm Compat"
+filename = "ec_lec_plugin-1.21.1-2.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cea95a8fbb5659c7e824e652635a665fd15892e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6406113
+project-id = 915757

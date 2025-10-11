@@ -5,6 +5,24 @@ file = "README.md"
 hash = "55799d4e4a5adb4f3099dff299834f16f79df565e970ad850a6edb0b87342e63"
 
 [[files]]
+<<<<<<< HEAD
+=======
+file = "mods/aces-spell-utils.pw.toml"
+hash = "7c9f27784630f8010185f25ec9969fccfa4494a5c73536749d7aa1bf68d4ca0f"
+metafile = true
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "a809baddc409782dbd5ab30ceee6e02da138ac6da3194974b5014ddc5644bb04"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3abb71603ee80aa766806f4d6910848182696fbc1823e54e1d04b77c7b4acd09"
+metafile = true
+
+[[files]]
+>>>>>>> main
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -50,6 +68,44 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+<<<<<<< HEAD
+=======
+file = "mods/ec-l-enders-cataclysm-compat.pw.toml"
+hash = "2d63b3e196733f53234a2f96dbfaf7d610a923f8b79cd4cd5d78a441e55f0ab9"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "4c38d7b5748ab512a2f0e1d19aae1c74121b94b7c41916d2fa44a8993911f7da"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7bb89491e6f15eacacc7cbc5f4a5ea0973d51a90c43991dad4c5793203ce9c8c"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "730a26548756a3519b804225e688834fbb2f1bd29877f1e37f4aac1b31b89354"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "6ba3213d1a72f09ec695b7171b95192cc0ae31823e255f4460bb5f24c1350eaf"
+metafile = true
+
+[[files]]
+file = "mods/expanded-combat.pw.toml"
+hash = "40b20ecc5c89699f9e09a80552845c701e1a4a2bbde8378ce28688fbdb76e27f"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "9ee3655343b704e8b9f0a131dc6c5c1fbab966a0705bce64b78981b430e60555"
+metafile = true
+
+[[files]]
+>>>>>>> main
 file = "mods/fastsuite.pw.toml"
 hash = "c3b0a110f11f64466cb233d2c06a7ab449f8f00165c87e468fcaee659a0eadc9"
 metafile = true
