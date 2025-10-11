@@ -2,9 +2,13 @@
 .packwiz/
 .packwizcache/
 
-# 빌드 파일
+# 빌드 파일 (모드팩 빌드 결과물만)
 *.mrpack
-*.zip
+/*.zip
+
+# shaderpacks와 resourcepacks의 zip은 포함
+!shaderpacks/*.zip
+!resourcepacks/*.zip
 
 # OS
 .DS_Store
